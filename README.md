@@ -6,5 +6,6 @@ Web application that takes 5 of your recent top tracks and generates 5 more reco
 ![Screen Shot 2024-01-15 at 1 06 11 AM](https://github.com/aryannambiar11/Spotify-Music-Recommender/assets/105333260/02a02e84-3d4b-4ae4-9229-0db0e4450e4a)
 ![Screen Shot 2024-01-15 at 1 06 37 AM](https://github.com/aryannambiar11/Spotify-Music-Recommender/assets/105333260/fb23ce6b-2061-4a00-9d72-832fa9752327)
 ![Screen Shot 2024-01-15 at 1 07 02 AM](https://github.com/aryannambiar11/Spotify-Music-Recommender/assets/105333260/251d4187-92e7-4e51-b1aa-6ae572d2e98e)
+token retrieval redirect after clicking on the token link button:
 ![Screen Shot 2024-01-15 at 1 07 26 AM](https://github.com/aryannambiar11/Spotify-Music-Recommender/assets/105333260/0e8fe7d9-8582-4e06-8ce9-8a33ea26fc7e)
 ![Screen Shot 2024-01-15 at 1 07 39 AM](https://github.com/aryannambiar11/Spotify-Music-Recommender/assets/105333260/4d70a974-65b0-407d-b643-3dbf0bb84590)
