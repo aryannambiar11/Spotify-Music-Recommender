@@ -1,6 +1,5 @@
 # Spotify-Music-Recommender
 Web application that takes 5 of your recent top tracks and generates 5 more recommended tracks using the previous 5 tracks as seeds in order to generate a recommended playlist for the user. 
-
 ![Screen Shot 2024-01-15 at 1 04 36 AM](https://github.com/aryannambiar11/Spotify-Music-Recommender/assets/105333260/8da9bb52-4a05-4680-966f-373d3f3120bb)
 ![Screen Shot 2024-01-15 at 1 05 28 AM](https://github.com/aryannambiar11/Spotify-Music-Recommender/assets/105333260/7f84a737-3d39-4ec2-a450-ead5c4d65fb4)
 ![Screen Shot 2024-01-15 at 1 05 52 AM](https://github.com/aryannambiar11/Spotify-Music-Recommender/assets/105333260/32b316a5-0921-45e6-99a7-58a6c30d4d66)
