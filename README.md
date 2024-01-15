@@ -10,4 +10,5 @@ token retrieval redirect after clicking on the token link button:
 ![Screen Shot 2024-01-15 at 1 07 26 AM](https://github.com/aryannambiar11/Spotify-Music-Recommender/assets/105333260/0e8fe7d9-8582-4e06-8ce9-8a33ea26fc7e)
 ![Screen Shot 2024-01-15 at 1 07 39 AM](https://github.com/aryannambiar11/Spotify-Music-Recommender/assets/105333260/4d70a974-65b0-407d-b643-3dbf0bb84590)
 The playlist on my spotify account:
-![Screen Shot 2024-01-15 at 1 24 16 AM](https://github.com/aryannambiar11/Spotify-Music-Recommender/assets/105333260/f095a772-3e0f-4eea-b191-a89cee2693ce)
+![Screen Shot 2024-01-15 at 1 25 41 AM](https://github.com/aryannambiar11/Spotify-Music-Recommender/assets/105333260/2e442df4-6282-4067-9cea-8b0b05a89e59)
+![Screen Shot 2024-01-15 at 1 26 04 AM](https://github.com/aryannambiar11/Spotify-Music-Recommender/assets/105333260/2850b0fd-b91f-4f58-b26a-9b2984202ff1)
